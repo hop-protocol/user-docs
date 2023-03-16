@@ -27,3 +27,11 @@ To participate in Hop governance with your $HOP tokens you need to first delegat
 Once you have delegated you will be able to vote for the **next** governance vote, not the one currently live.
 
 Delegating and voting can be done through one of the many governance portals such as: [https://www.tally.xyz/governance/eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48](https://www.tally.xyz/governance/eip155:1:0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48)
+
+### More FAQs
+
+Additional FAQs available on developer docs [FAQ](https://app.gitbook.com/s/-MOYaoULYuKq7wLWewmU/other/faq)
+
+{% content-ref url="https://app.gitbook.com/s/-MOYaoULYuKq7wLWewmU/other/faq" %}
+[FAQ](https://app.gitbook.com/s/-MOYaoULYuKq7wLWewmU/other/faq)
+{% endcontent-ref %}
