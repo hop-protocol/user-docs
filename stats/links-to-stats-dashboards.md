@@ -35,3 +35,18 @@ View key metrics on [Token Terminal](https://tokenterminal.com/terminal/projects
 
 {% embed url="https://tokenterminal.com/terminal/projects/hop-protocol" %}
 
+### DefiLlama
+
+View stats on [DefiLlama](https://defillama.com/protocol/hop-protocol)
+
+* Total Value Locked by chain
+* Yields by pools
+
+{% embed url="https://defillama.com/protocol/hop-protocol" %}
+
+### CoinGecko
+
+View token stats on [CoinGecko](https://www.coingecko.com/en/coins/hop-protocol)
+
+{% embed url="https://www.coingecko.com/en/coins/hop-protocol" %}
+
