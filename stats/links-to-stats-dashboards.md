@@ -11,7 +11,9 @@ See high level transfer volume across chains
 * Cumulative/Daily/Weekly/Monthly time ranges
 * Detailed Transfer Volume by source/destination chain and token
 * AMM fees for different pools
+* Integration partners
 * Unique wallets that have bridged
+* Top accounts by volume
 * Total transfers
 
 {% embed url="https://stats.hop.exchange/?" %}
