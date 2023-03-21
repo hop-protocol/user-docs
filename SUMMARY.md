@@ -24,3 +24,7 @@
 * [Protocol Fees & Public Good Funding](governance/protocol-fees-and-public-good-funding.md)
 * [Roadmap](governance/roadmap.md)
 * [Important Links](governance/important-links.md)
+
+## Stats
+
+* [Links to Stats Dashboards](stats/links-to-stats-dashboards.md)
