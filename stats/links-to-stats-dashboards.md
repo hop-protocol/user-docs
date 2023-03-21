@@ -37,7 +37,7 @@ View key metrics on [Token Terminal](https://tokenterminal.com/terminal/projects
 
 ### DefiLlama
 
-View stats on [DefiLlama](https://defillama.com/protocol/hop-protocol)
+View pool stats on [DefiLlama](https://defillama.com/protocol/hop-protocol)
 
 * Total Value Locked by chain
 * Yields by pools
