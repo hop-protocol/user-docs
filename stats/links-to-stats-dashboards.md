@@ -6,7 +6,7 @@ See high level transfer volume across chains
 
 {% embed url="https://volume.hop.exchange/" %}
 
-### Additional Hop Stats
+#### Additional Hop Stats
 
 * Cumulative/Daily/Weekly/Monthly time ranges
 * Detailed Transfer Volume by source/destination chain and token
