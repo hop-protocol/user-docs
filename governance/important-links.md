@@ -6,6 +6,8 @@ A list of important links related to Governance:
 * [Tally.xyz](https://www.tally.xyz/gov/hop) (on-chain voting)
 * [Governance forum](https://forum.hop.exchange/)
 * [Treasury](https://deepdao.io/organization/f50de02c-382c-4527-b462-eaf4ac538c18/organization\_data/finance) breakdown
+* [Governor](https://etherscan.io/address/0xed8Bdb5895B8B7f9Fdb3C087628FD8410E853D48) contract
+* [Timelock](https://etherscan.io/address/0xeeA8422a08258e73c139Fc32a25e10410c14bd7a) contract
 * [Community multisig](https://app.safe.global/oeth:0xC988107688b750dee6237B85A3ca49ba0a65DaB0/home) (Optimism)
 * [Community multisig](https://app.safe.global/eth:0x60224984338DeDe521C56DEE7a09e446A5a163f4/balances) (Ethereum)&#x20;
 * [Grant Committee multisig](https://app.safe.global/apps?safe=eth:0x1ECC9Ee9980348a2373c1F2EFbfDF520a389f35C\&appUrl=https%3A%2F%2Fapps.gnosis-safe.io%2Fsafe-claiming-app) (Ethereum)
