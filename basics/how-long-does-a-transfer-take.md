@@ -14,7 +14,7 @@ _FYI: Hop has a_ [_multichain block explorer_](https://explorer.hop.exchange/) _
 * Arbitrum: \~12 minutes (finality)
 * Nova: \~12 minutes (finality)
 * Polygon: \~22 minutes (512 blocks)
-* Gnosis: \~2 minutes (finality)
+* Gnosis: \~2 minutes (L2 finality)
 
 ### Ethereum to Any
 
