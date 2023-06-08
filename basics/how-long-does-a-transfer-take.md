@@ -10,15 +10,16 @@ _FYI: Hop has a_ [_multichain block explorer_](https://explorer.hop.exchange/) _
 
 ### L2 to Any
 
-* Optimism: \~12 minutes (finality)
+* Optimism: \~25 minutes (finality)
 * Arbitrum: \~12 minutes (finality)
 * Nova: \~12 minutes (finality)
-* Polygon: \~22 minutes (512 blocks)
-* Gnosis: \~2 minutes (L2 finality)
+* Polygon: \~20 minutes (512 blocks)
+* Gnosis: \~4 minutes (L2 finality)
 
 ### Ethereum to Any
 
-* Optimism: \~3 minutes (optimistic finality)
+* Optimism: \~2 minutes (optimistic finality)
 * Arbitrum: \~10 minutes (finality)
-* Polygon: \~25 min (finality)
+* Nova: \~10 minutes (finality)
+* Polygon: \~20 min (finality)
 * Gnosis: \~30 min (light client finality)
