@@ -8,7 +8,7 @@ This credit is extended by the Bonder in form of hTokens which are then swapped 
 
 The end result allows users to seamlessly transfer tokens from one network to the next.
 
-The hTokens exist to allow the protocol to mint & burn tokens programatically to move them across chains more easily but also to shorten the native exit time of each scaling solution and allow Bonders to be more capital efficient. Bonders unlock their fronted capital every 24hrs.
+The hTokens exist to allow the protocol to mint & burn tokens programmatically to move them across chains more easily but also to shorten the native exit time of each scaling solution and allow Bonders to be more capital efficient. Bonders unlock their fronted capital every 24hrs.
 
 ### Hop is trustless
 
