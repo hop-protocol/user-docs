@@ -15,6 +15,7 @@ _FYI: Hop has a_ [_multichain block explorer_](https://explorer.hop.exchange/) _
 * Nova: \~12 minutes (finality)
 * Polygon: \~60 minutes (1600 blocks) (due to ongonig chain reorg issues)
 * Gnosis: \~4 minutes (L2 finality)
+* Base: \~25 minutes (finality)
 
 ### Ethereum to Any
 
@@ -23,3 +24,4 @@ _FYI: Hop has a_ [_multichain block explorer_](https://explorer.hop.exchange/) _
 * Nova: \~10 minutes (finality)
 * Polygon: \~20 min (finality)
 * Gnosis: \~30 min (light client finality)
+* Base: \~2 minutes (optimistic finality)
