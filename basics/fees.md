@@ -5,16 +5,18 @@ There is no simple answer for this question as the overall cost of your transfer
 <figure><img src="../.gitbook/assets/fee_article_helpdesk.png" alt=""><figcaption></figcaption></figure>
 
 \
-**1. AMM swap fees (0.04%)**\
+**1. AMM swap fees (0% - 0.04%)**
+
+Most bridges have an AMM that will charge between 0.01% -0.04%. The HOP bridge does not have an AMM so there is no AMM fee applied.\
 \
-When you transfer e.g USDC from Optimism to Arbitrum your USDC will be converted into hUSDC in the USDC AMM on Optimism incurring **a 0.04% fee**.\
+When you transfer e.g USDC from Optimism to Arbitrum your USDC will be converted into hUSDC in the USDC AMM on Optimism incurring a **0.01% - 0.04% fee**.\
 \
 Then this hUSDC will be burned and a Bonder will bond your transfer by locking his collateral and mint you some new hUSDC on Arbitrum. \
 \
-This hUSDC will now be converted in the Arbitrum USDC AMM for canonical USDC costing **another 0.04%.** \
+This hUSDC will now be converted in the Arbitrum USDC AMM for canonical USDC costing **another 0.01% - 0.04%.** \
 \
-L2 <> L2 -> 0.08% swap fees (because two swaps)\
-L2 -> L1 -> 0.04% (because only one swap)\
+L2 <> L2 -> 0.02% - 0.08% swap fees (because two swaps)\
+L2 -> L1 -> 0.01% - 0.04% (because only one swap)\
 \
 **2. Slippage (?%)**\
 \
