@@ -1,6 +1,6 @@
 # USDC.e Manual Withdrawals
 
-As the Hop USDC bridge was upgraded to utilize Circle's CCTP, leading to the deprecation of the USDC bonder, transfers involving USDC.e now require manual withdrawal.\
+With the Hop USDC bridge upgraded to utilize Circle's CCTP and the deprecation of the USDC bonder, transfers involving USDC.e now require manual withdrawal.\
 \
 Hop enables you to withdraw hUSDC.e from the pool and transfer it to L1 at a 1:1 ratio. However, transferring hUSDC.e to L1 requires completing the full exit process, which takes at least 7 days after the root commit before the withdrawal can be finalized. To proceed, follow the steps below:\
 \
@@ -18,15 +18,15 @@ This will initiate the "Commit transfers" transaction.
 **Step 3: Submit "Prove Withdrawal" transaction**\
 On the same [relay UI](https://app.hop.exchange/#/relay) page, initiate the "Prove Withdrawal" transaction on L1 by clicking the "Relay" button again.
 
-Alternatively, you can complete this step using [superchainrelayer.xyz](https://superchainrelayer.xyz/) by pasting the transaction hash of the "Commit transfers" transaction you executed in Step 2 and clicking on "Prove tx".
-**This will initiate the 7-day exit period.**
+Alternatively, use [superchainrelayer.xyz](https://superchainrelayer.xyz/) to complete this step by pasting the transaction hash of the "Commit transfers" transaction from Step 2 and clicking "Prove tx".
+**This will initiate a 7-day exit period.**
 ![image](https://github.com/user-attachments/assets/8686e83d-b811-4a43-aff0-c085142d6360)
 
 **Step 4: Submit "Finalize Withdrawal" transaction**\
 Visit the [relay UI](https://app.hop.exchange/#/relay) and paste the transaction hash of your transfer on the origin chain into the TransferID field.\
 This will initiate the "Finalize Withdrawal" transaction.
 
-Alternatively, you can complete this step using [superchainrelayer.xyz](https://superchainrelayer.xyz/) by pasting the transaction hash of the "Commit transfers" transaction you executed in Step 2 and clicking on "Finalize tx".
+Alternatively, use [superchainrelayer.xyz](https://superchainrelayer.xyz/) to complete this step by pasting the transaction hash of the "Commit transfers" transaction from Step 2 and clicking "Finalize tx".
 ![image](https://github.com/user-attachments/assets/e3570586-7f5e-4a3c-a213-472129d8ca48)
 
 **Step 5: Withdraw your transfer**\
