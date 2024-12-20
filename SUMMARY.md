@@ -12,6 +12,7 @@
 * [Providing Liquidity & Rewards](basics/providing-liquidity-and-rewards.md)
 * [Transfer failures](basics/transfer-failures.md)
 * [Manual Withdrawals](basics/manual-withdrawals.md)
+* [USDC.e Manual Withdrawals](basics/usdce-manual-withdrawals.md)
 * [FAQ](basics/faq.md)
 
 ## Governance
