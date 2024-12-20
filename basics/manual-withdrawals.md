@@ -31,5 +31,4 @@ Upon showing your valid transfer proof the Hop bridge will mint hTokens for you 
 Head to the “Convert” section in the Hop app, select the network and asset and choose the “via AMM” option to do the swap from hTokens into native tokens.\
 \
 NOTE: this final swap is only necessary if you sent to a Layer-2 network. If you sent to Ethereum you will **directly** receive native tokens, so no swap needed.\
-![Screenshot\_2022-07-05\_at\_22.14.23.png](https://help.hop.exchange/hc/article\_attachments/7449261671437/Screenshot\_2022-07-05\_at\_22.14.23.png)\
-\
+![Screenshot\_2022-07-05\_at\_22.14.23.png](https://help.hop.exchange/hc/article\_attachments/7449261671437/Screenshot\_2022-07-05\_at\_22.14.23.png)
