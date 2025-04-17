@@ -30,7 +30,9 @@ Delegating and voting can be done through one of the many governance portals suc
 
 ### More FAQs
 
-Additional FAQs available on developer docs [FAQ](https://app.gitbook.com/s/-MOYaoULYuKq7wLWewmU/other/faq)
+Check out the FAQ subpages on the left side navigation.&#x20;
+
+Additional FAQs available on Developer Docs [FAQ](https://app.gitbook.com/s/-MOYaoULYuKq7wLWewmU/other/faq)
 
 {% content-ref url="https://app.gitbook.com/s/-MOYaoULYuKq7wLWewmU/other/faq" %}
 [FAQ](https://app.gitbook.com/s/-MOYaoULYuKq7wLWewmU/other/faq)
