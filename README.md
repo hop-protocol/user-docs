@@ -2,12 +2,20 @@
 
 Welcome to the Hop User Documentation!
 
+
+
+Get started with these topics:
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="basics/faq/" %}
+[faq](basics/faq/)
 {% endcontent-ref %}
 
 ### Looking for the Developer Docs?
