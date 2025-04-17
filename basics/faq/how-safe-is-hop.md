@@ -1,0 +1,7 @@
+# How safe is Hop?
+
+It's hard to quantify security of a protocol but the core team of Hop has worked diligently on the protocol for over one year before releasing it to the public. The Hop core team has extensive experience in smart contract development. Before building Hop they were working as smart contract auditors for several years auditing popular protocols such as Augur, OpenZeppelin, Decentraland and DyDx and consequently built one of the first smart contract wallets in the Ethereum space called [Authereum](https://authereum.com/). High gas costs pushed them to the Layer-2 space and eventually building Hop protocol but the bottom line is that Hop is built by some of the most skilled developers in the space.\
+\
+Moreover, Hop has undergone audits by [Solidified](https://github.com/hop-protocol/contracts/blob/cf9f2765f2cfe8b51e3f4c54f3d451a2300ce379/audits/052021_Solidified.pdf) and [Monoceros Alpha](https://github.com/hop-protocol/contracts/blob/cf9f2765f2cfe8b51e3f4c54f3d451a2300ce379/audits/042021_MonocerosAlpha.pdf). A third audit by Trail of Bits is planned for September.\
+\
+Moreover, Hop is completely non-custodial, meaning both liquidity provider's funds in the AMM and user funds that are sent through the Hop Bridge are never held in custody by a single party. Contracts are currently managed by a multi-sig with a one day timelock, which means that any changes to the code are delayed by one day before being implemented.

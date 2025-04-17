@@ -20,7 +20,7 @@ Choose a pool based on the highest yield or the asset& network of your choice. O
 
 Clicking "Add liquidity" will lead you to the specific pool page of your choice. You'll see the 24hr volume, TVL as well as its APR.\
 \
-_In some cases you will need to_ [_wrap_](https://academy.binance.com/en/articles/what-is-wrapped-ether-weth-and-how-to-wrap-it?ref=AZTKZ9XS\&utm\_source=BinanceTwitter\&utm\_medium=GlobalSocial\&utm\_campaign=GlobalSocial) _your $ETH (same for $MATIC) to turn it into an ERC-20 token before depositing it into the pool. You will see a little prompt "Click here to Wrap or Unwrap" to do so._
+&#xNAN;_&#x49;n some cases you will need to_ [_wrap_](https://academy.binance.com/en/articles/what-is-wrapped-ether-weth-and-how-to-wrap-it?ref=AZTKZ9XS\&utm_source=BinanceTwitter\&utm_medium=GlobalSocial\&utm_campaign=GlobalSocial) _your $ETH (same for $MATIC) to turn it into an ERC-20 token before depositing it into the pool. You will see a little prompt "Click here to Wrap or Unwrap" to do so._
 
 You will see for each pool there's always two input fields. One for the "canonical" asset (e.g $ETH) and one for the Hop bridge token (e.g $hETH).\
 \
@@ -32,7 +32,7 @@ Enter the amount you want to deposit into the input field of each token. You can
 
 To start depositing your token(s), click the "Preview" button. A modal will appear showing you an overview of your transaction one last time before you actually deposit. If everything looks good you can hit the "Deposit & Stake" button. \
 \
-_If you don't wish to stake your LP tokens and earn $HOP liquidity mining rewards you can click the grey "Deposit" button just below. This will simply deposit your tokens but not stake the LP tokens._
+&#xNAN;_&#x49;f you don't wish to stake your LP tokens and earn $HOP liquidity mining rewards you can click the grey "Deposit" button just below. This will simply deposit your tokens but not stake the LP tokens._
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-30 at 19.44.42.png" alt=""><figcaption></figcaption></figure>
 

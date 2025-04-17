@@ -6,7 +6,7 @@ The advantages with Hop come about when you transfer **the other way around** fr
 \
 Here, the rule of thumb is that an exit will take as many blocks to be considered final (safe from [reorgs](https://www.paradigm.xyz/2021/07/ethereum-reorgs-after-the-merge/)) on the sending chain. Some chains determine finality based on L1 consensus. The time-to-finality for these chains is not constant, so the values below will be an average based on the `safe` status of a block that a transaction is included in.\
 \
-_FYI: Hop has a_ [_multichain block explorer_](https://explorer.hop.exchange/) _which allows you to track the status of your transaction as well as all your past transactions._
+&#xNAN;_&#x46;YI: Hop has a_ [_multichain block explorer_](https://explorer.hop.exchange/) _which allows you to track the status of your transaction as well as all your past transactions._
 
 ### L2 to Any
 
